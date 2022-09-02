@@ -1,6 +1,7 @@
 # calculator
 A web based calculator app
 ##
-
-![Screenshot](/assets/dark.png) 
-![Screenshot2](/assets/light.png)
+<div><img src="/assets/dark.png" width="400px"></div>
+<div><img src="/assets/light.png" width="400px"></div>
+<!-- ![Screenshot](/assets/dark.png) 
+![Screenshot2](/assets/light.png) -->
