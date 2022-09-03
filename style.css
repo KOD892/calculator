@@ -92,4 +92,33 @@ body{
 }
 .fa-light{
     color: #fff;
+
+}
+@media  screen and (max-width:500px) {
+    html,body{
+        margin: 0;
+        padding: 0;
+    }
+    .calculator{
+        width: 100%;
+        min-height: 700px;
+        position: absolute;
+        top: 0;
+    }
+    #display{
+        height: 45%;
+    }
+    #buttons{
+        min-height: 55%;
+    }
+    .row{
+        height: 80px;
+    }
+    .btn{
+        line-height: 68px;
+    }
+    .ui{
+        min-height: 60%;
+    }
+    
 }

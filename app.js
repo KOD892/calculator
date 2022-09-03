@@ -34,7 +34,6 @@ document.querySelector('.ui-controller').addEventListener("click",ui);
 //functions
 function backSpace(){
   let temp = display.innerText;
-  console.log(temp.length)
   temp=temp.slice(0,temp.length-1);
   setDisplay('');
   setDisplay(temp);
